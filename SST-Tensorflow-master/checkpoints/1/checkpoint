@@ -1,0 +1,3 @@
+model_checkpoint_path: "epoch19_34.74_01_lr0.001000.ckpt"
+all_model_checkpoint_paths: "epoch09_37.57_00_lr0.001000.ckpt"
+all_model_checkpoint_paths: "epoch19_34.74_01_lr0.001000.ckpt"
